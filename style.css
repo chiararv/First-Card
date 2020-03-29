@@ -1,0 +1,33 @@
+body{
+    background-color: #ccc;
+    font-family:Roboto, sans-serif;
+    
+}
+.card{
+    width: 300px;
+    height: 400px;
+    background-color: #FFF;
+    margin: 200px auto;
+    border-radius: 3px;
+    box-shadow: 1px 2px 5px 2px #aaa;
+    text-align: center;
+}
+.card-img{
+    width: 100%;
+}
+.card-title{
+    width: 100px;
+    border: 2px groove rgb(98, 77, 117);
+    margin: auto;
+    
+}
+.card-text{
+    text-align: center;
+    padding-left: 15px;
+}
+.card-link{
+    text-decoration: none;
+    background-color: #41839c;
+    border: 2px outset rgb(201, 184, 184);
+    padding: 8px 16px;
+}
