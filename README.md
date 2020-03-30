@@ -1,2 +1,1 @@
-# First-Card
-Primer trabajo de Ada
+# Ada
